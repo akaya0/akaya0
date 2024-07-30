@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Paul 🦍🍌
 
-<!--
-**akaya0/akaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a System Administrator/ Virtualization Engineer who enjoys building and optimizing virtual environments. I love working with server infrastructures and automating everything. It's exciting to provide the backbone for everything from day-to-day operations to innovative projects.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GLE5He9NLbo">
+    <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,py,cpp,git,ansible" />
+  </a>
+</p>
+
+## Contact
+
+mail: paulheinso@gmail.com
